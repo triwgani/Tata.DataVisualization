@@ -10,11 +10,27 @@ This virtual Experience case is held by Tata. In this virtual experience program
 2. Preparing for a meeting with senior leaders
 
 ### Tasks:
-Writing questions that that will be important and relevant to the CEO and CMO
+Writing questions that that will be important and relevant to the CEO and CMO. The questions will be based on the datasets resource provided as the basis for exploration
 
 ### Datasets Source:
+`https://cdn.theforage.com/vinternships/companyassets/ifobHAoMjQs9s6bKS/5XsFFJu2oCLdmYJW2/1654128941410/Online%20Retail.xlsx`
+
+(The above dataset source links was last accessed in November 9, 2023)
 
 ### Solutions:
+**Questions for CEO:**
+
+1. The CEO would like to know the current condition of the business, so that he /she can have a bird view of its current business state of the corresponding online retail company. In order to address this issue, 4 Metrics will be provided in the report, i.e.: Total Revenue, Total Orders, Total Transactions, and Total Number of Customers.
+2. The CEO also needs to have a glance of the business throughout the time the business has been running. Provided the Information of the revenue and order by monthly and annual basis, the CEO would be able to see the seasonal pattern.
+3. CEO also needs the information of the monthly and annual revenue and order to forecast the business in the following year.
+4. The demography of the customers based on the place where they live (by country/globally) would enable the CEO to determine to which area to he / she wants to expand its business. In order to address this issue, a visual map will be provided.
+
+**Questions for CMO:**
+
+1. The CMO needs to find out the Top 10 Customers with the most orders, so that he can nominate and provide Loyalty Award or Program to the correct customers.
+2. The CMO needs the information about the Top 10 Countries that generates the most revenue so that they can maintain the business relationship built so far.
+3. CMO needs to know the Top 10 sold items so that they can maintain what they are good at providing for.
+4. Understanding the product demography based on the country in which they are sold enables the CMO to craft or tailor the marketing strategy for each different country.
 
 ## 2. Choosing the Right Visuals
 ### Lesson Learned:
@@ -23,9 +39,9 @@ Choosing visuals to communicate information effectively
 ### Tasks:
 Identifying the visual which would explain the data and insights in the simplest possible manner
 
-### Datasets Source:
-
 ### Solutions:
+
+
 
 ## 3. Creating Effective Visuals
 ### Lesson Learned:
@@ -33,9 +49,12 @@ Identifying the visual which would explain the data and insights in the simplest
 2. Using Tableau or PowerBI softwares
 
 ### Tasks:
-Creating the visuals around the questions the CEO and CMO requested
+**Creating the visuals around the questions the CEO and CMO requested:**
+1. The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
+2. The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
+3. The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
+4. The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
 
-### Datasets Source:
 
 ### Solutions:
 
@@ -45,8 +64,6 @@ Presenting effectively to senior leadership
 
 ### Tasks:
 Recording a video to present findings to the CEO and CMO
-
-### Datasets Source:
 
 ### Solutions:
 
