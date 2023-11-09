@@ -40,8 +40,9 @@ Choosing visuals to communicate information effectively
 Identifying the visual which would explain the data and insights in the simplest possible manner
 
 ### Solutions:
+Using Dr. Andrew Abela's method we can determine which visualization suitable to communicate our datasets.
 
-
+![](ChoosingViz.png)
 
 ## 3. Creating Effective Visuals
 ### Lesson Learned:
@@ -55,8 +56,16 @@ Identifying the visual which would explain the data and insights in the simplest
 3. The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
 4. The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
 
-
 ### Solutions:
+
+1. The Dashboard
+
+![](TataDashboard.png)
+
+2. The Mobiole View
+
+![](Mobile1.png)
+
 
 ## 4. Communicating Insights and Analysis
 ### Lesson Learned:
