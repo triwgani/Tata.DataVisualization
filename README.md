@@ -2,7 +2,7 @@
 
 ![](Tata.png)
 
-This virtual Experience case is held by Tata. In this virtual experience programme, I am being put in the point of view of a data visualization analyst at Tata iQ, , to address various stakeholders needs. The expectation is set to understand the stakeholders objectives and translate those into apt and intuitive dashboard or visualizations. The visualization is aimed to bring impact by delivering insights that might be used to empower business. There are 4 Tasks to complete in this case, i.e.: Framing the Busines Scenario, Choosing the Right Visuals, Creating Effective Visuals, Communicating Insights and Analysis.
+This virtual Experience case is held by Tata. In this virtual experience programme, I am being put in the point of view of a data visualization analyst at Tata iQ, , to address various stakeholders needs. The expectation is set to understand the stakeholders objectives and translate those into apt and intuitive dashboard or visualizations. The visualization is aimed to bring impact by delivering insights that might be used to empower business. **There are 4 Tasks to complete in this case, i.e.:** Framing the Busines Scenario, Choosing the Right Visuals, Creating Effective Visuals, Communicating Insights and Analysis.
 
 ## 1. Framing the Business Scenario
 ### Lesson Learned:
