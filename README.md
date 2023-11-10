@@ -58,11 +58,29 @@ Using Dr. Andrew Abela's method we can determine which visualization suitable to
 
 ### Solutions:
 
-1. The Dashboard
+1. In order to complete the first task, I chose the Line Chart for the visualization to describe the revenue trend during the period of 2011. The chart depicts the Revenue on its vertical axis and the time of period in the horisontal axis.
+
+![](Trend.png)
+
+2. The Top 10 Countries that generated most Revenue and Quantity can be efficiently depicted by a Vertical Bar Chart. The Countries in the vertical of the chart axis are sorted by Revenue and Quantity. 
+
+![](10Countries.png)
+
+3. The Top 10 Customers that generates the most Revenue can be viewed by a Horizontal Bar Chart as depicted below:
+
+![](10Customers.png)
+
+4. To describe the regions in which the product experienced the most demand, I display the information in a geographical map. 
+
+![](Regions.png)
+
+Since the CEO also required the **United Kingdom be excluded from the dashboard, I applied the visual level filter excluding the country of United Kingdom from the map. Besides that, I also added the Tata symbol, as well as the Score Cards for Total Revenue, Quantity Order, Total Transaction, and Total Customers.** The final design of the dashboard is depicted blow in 2 styles, i.e.: the Dashboard layout view and the Mobile layout view.  
+
+a. Desktop Layout View
 
 ![](TataDashboard.png)
 
-2. The Mobiole View
+b. Mobile Layout View
 
 ![](Mobile1.png)
 
