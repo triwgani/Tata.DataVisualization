@@ -104,3 +104,6 @@ The objective of this tasks is to conduct analysis and present findings or insig
 3. The Customer with Customer ID of 14646 is the customer who generated the most revenue with purchase converted to revenue of $ 280K, allowing him/her to peak the list of the Top 10 Customers. The 10th position is customer with Customer ID of 12346 that generated Revenue of $ 77K. CMO can use the Chart to target higher revenue generating customers for their loyalti program to ensure them satisfied with the products sold.
 
 4. Based on the Map Chart (Geographical Chart), we can consider the high number of quantity sold as reflecting the demand in the regions. The higher the quantity sold, the higher the demand in the corresponding region. This is depicted in the size of the bubble on the Map. Netherland placed the first position as the region with highest demand, followed by EIRE and Germany. Therefore, if the CEO wants to create expansion strategy based on the demand, CEO can target the plan to the highest 3 regions, eventhough the possibility to expand either in the Top 10 regoins or outside the Top 10 regions is always open to be executed.
+
+### Link of the dashboard:
+The online report of the power bi can be found [here](https://app.powerbi.com/groups/me/reports/ade3d66f-7bc5-4146-98c5-647532b84c5e/ReportSection?experience=power-bi)
