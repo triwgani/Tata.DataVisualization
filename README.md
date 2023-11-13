@@ -64,7 +64,7 @@ For this case solution, I use the Power BI to make visualization dashboard. Deta
 
 ![](Trend.png)
 
-2. The Top 10 Countries that generated most Revenue and Quantity can be efficiently depicted by a Vertical Bar Chart. The Countries in the vertical of the chart axis are sorted by Revenue and Quantity. 
+2. The Top 10 Countries that generated most Revenue and Quantity can be efficiently depicted by a Vertical Bar Chart. The Countries in the vertical of the chart axis are sorted by Revenue and Quantity.
 
 ![](10Countries.png)
 
@@ -72,7 +72,7 @@ For this case solution, I use the Power BI to make visualization dashboard. Deta
 
 ![](10Customers.png)
 
-4. To describe the regions in which the product experienced the most demand, I display the information in a geographical map. 
+4. To describe the regions in which the product experienced the most demand, I display the information in a geographical map.
 
 ![](Regions.png)
 
@@ -105,7 +105,7 @@ The objective of this tasks is to conduct analysis and present findings or insig
 
 4. Based on the Map Chart (Geographical Chart), we can consider the high number of quantity sold as reflecting the demand in the regions. The higher the quantity sold, the higher the demand in the corresponding region. This is depicted in the size of the bubble on the Map. Netherland placed the first position as the region with highest demand, followed by EIRE and Germany. Therefore, if the CEO wants to create expansion strategy based on the demand, CEO can target the plan to the highest 3 regions, eventhough the possibility to expand either in the Top 10 regoins or outside the Top 10 regions is always open to be executed.
 
-The video recording explaining about the solution was submitte directly to [Forage](https://www.theforage.com/simulations/tata/data-visualisation-p5xo) as the platform which hosts the Tata Virtual Case Experience.
+The video recording explaining about the solution was submitted directly to [Forage](https://www.theforage.com/simulations/tata/data-visualisation-p5xo) as the platform which hosts the Tata Virtual Case Experience.
 
 ### Link of the dashboard:
 The online report of the power bi can be found [here](https://app.powerbi.com/groups/me/reports/ade3d66f-7bc5-4146-98c5-647532b84c5e/ReportSection?experience=power-bi)
