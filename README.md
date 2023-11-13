@@ -10,7 +10,7 @@ This Virtual Experience case is held by Tata. In this virtual experience program
 2. Preparing for a meeting with senior leaders
 
 ### Tasks:
-Writing questions that that will be important and relevant to the CEO and CMO. The questions will be based on the datasets resource provided as the basis for exploration
+Writing questions that will be important and relevant to the CEO and CMO. The questions will be based on the datasets resource provided as the basis for exploration
 
 ### Datasets Source:
 `https://cdn.theforage.com/vinternships/companyassets/ifobHAoMjQs9s6bKS/5XsFFJu2oCLdmYJW2/1654128941410/Online%20Retail.xlsx`
@@ -20,7 +20,7 @@ Writing questions that that will be important and relevant to the CEO and CMO. T
 ### Solutions:
 **Questions for CEO:**
 
-1. The CEO would like to know the current condition of the business, so that he /she can have a bird view of its current business state of the corresponding online retail company. In order to address this issue, 4 Metrics will be provided in the report, i.e.: Total Revenue, Total Orders, Total Transactions, and Total Number of Customers.
+1. The CEO would like to know the current condition of the business, so that he/she can have a bird view of its current business state of the corresponding online retail company. In order to address this issue, 4 metrics will be provided in the report, i.e.: Total Revenue, Total Orders, Total Transactions, and Total Number of Customers.
 2. The CEO also needs to have a glance of the business throughout the time the business has been running. Provided the Information of the revenue and order by monthly and annual basis, the CEO would be able to see the seasonal pattern.
 3. CEO also needs the information of the monthly and annual revenue and order to forecast the business in the following year.
 4. The demography of the customers based on the place where they live (by country/globally) would enable the CEO to determine to which area to he / she wants to expand its business. In order to address this issue, a visual map will be provided.
@@ -58,6 +58,8 @@ Using Dr. Andrew Abela's method we can determine which visualization suitable to
 
 ### Solutions:
 
+For this case solution, I use the Power BI to make visualization dashboard. Details of the visuals used in the dashboard, are as follow:
+
 1. In order to complete the first task, I chose the Line Chart for the visualization to describe the revenue trend during the period of 2011. The chart depicts the Revenue on its vertical axis and the time of period in the horisontal axis.
 
 ![](Trend.png)
@@ -84,8 +86,8 @@ b. Mobile Layout View
 
 ![](Mobile1.png)
 
-
 ## 4. Communicating Insights and Analysis
+
 ### Lesson Learned:
 Presenting effectively to senior leadership
 
@@ -96,6 +98,9 @@ Recording a video to present findings to the CEO and CMO
 The objective of this tasks is to conduct analysis and present findings or insights to the CEO and CMO. As per stated in the questions above, there are at least 4 things we can analyze based on the required 4 visualizations.
 
 1. We can see that the revenue varied up and down over the first 5 months (January to May), ranging from $ 0.52M to $ 0.77M and was followed by a relatively steady trend in the next 3 months (June to August), before started to climb in the following 3 months (September, October, and November) with revenues of $ 1.06M, $ 1.15M, and $ 1.51M respectively, and eventually dropped to $ 0.64M in December. It is hard to predict the cyclicality or seasonality of the trend since we only use one period (1 year) of the fluctuated revenue data. Nonetheless, we still can predict that the revenue would climb up in a few months before the year ends and that could happen annually. Therefore, we need to have good preparation both for the goods that would be sold as well as the resources needed during the corresponding period. 
+
 2. Based on the chart depicting the Top 10 Countries that generated the most Revenues, Netherlands generated the most with Revenue of $ 285K and Sold Quantity of $ 201K, followed by EIRE, Germany, France, Australia, Spain, Switzerland, Belgium, Sweden, and Japan in the last position with only Revenue of $ 37K and Sold Quantity of $ 26K. All increements of the revenue are in line with the increasing quantity of goods sold. Therefore, the supply of the goods must be well maintained. The CMO and the team must also maintain good relation with established customers in the corresponding Top 10 Countries, while preparing strategy, should the company intend to expand its business outside the area of the Top 10 Countries.
+
 3. The Customer with Customer ID of 14646 is the customer who generated the most revenue with purchase converted to revenue of $ 280K, allowing him/her to peak the list of the Top 10 Customers. The 10th position is customer with Customer ID of 12346 that generated Revenue of $ 77K. CMO can use the Chart to target higher revenue generating customers for their loyalti program to ensure them satisfied with the products sold.
+
 4. Based on the Map Chart (Geographical Chart), we can consider the high number of quantity sold as reflecting the demand in the regions. The higher the quantity sold, the higher the demand in the corresponding region. This is depicted in the size of the bubble on the Map. Netherland placed the first position as the region with highest demand, followed by EIRE and Germany. Therefore, if the CEO wants to create expansion strategy based on the demand, CEO can target the plan to the highest 3 regions, eventhough the possibility to expand either in the Top 10 regoins or outside the Top 10 regions is always open to be executed.
