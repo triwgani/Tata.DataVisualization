@@ -64,11 +64,11 @@ For this case solution, I use the Power BI to make visualization dashboard. Deta
 ![](Trend.png)
 
 
-2. The Top 10 Countries that generated most Revenue and Quantity can be efficiently depicted by a Vertical Bar Chart. The Countries in the vertical of the chart axis are sorted by Revenue and Quantity.
+2. The Top 10 Countries that generated most Revenue and Quantity can be efficiently depicted by a Horizontal Bar Chart. The Countries in the vertical of the chart axis are sorted by Revenue and Quantity.
 ![](10Countries.png)
 
 
-3. The Top 10 Customers that generates the most Revenue can be viewed by a Horizontal Bar Chart as depicted below:
+3. The Top 10 Customers that generates the most Revenue can be viewed by a Vertical Bar Chart as depicted below:
 ![](10Customers.png)
 
 
