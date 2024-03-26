@@ -107,4 +107,4 @@ The objective of this tasks is to conduct analysis and present findings or insig
 The video recording explaining about the solution was submitted directly to [Forage](https://www.theforage.com/simulations/tata/data-visualisation-p5xo) as the platform which hosts the Tata Virtual Case Experience.
 
 ### Link of the dashboard:
-The online report of the power bi can be found [here](https://app.powerbi.com/groups/me/reports/ade3d66f-7bc5-4146-98c5-647532b84c5e/ReportSection?experience=power-bi)
+The online report of the power bi can be found [here](https://app.powerbi.com/links/c72QtiGPZU?ctid=af2c0734-cb42-464f-b6bf-2a241b6ada56&pbi_source=linkShare)
